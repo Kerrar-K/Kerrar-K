@@ -1,6 +1,8 @@
 # Hi, I'm Kerrar Kubat 👋
 
-I'm a full-stack developer from Antwerp with a strong interest in building scalable and user-friendly applications using mainly **.NET** and **React**. I care deeply about writing clean, maintainable code and translating real-world problems into practical software solutions.
+I'm a full-stack developer from Antwerp with a strong interest in building scalable, user-friendly applications. I care deeply about writing clean, maintainable code and turning real-world problems into practical software solutions.
+
+While I’ve mainly worked with .NET, React, and Python, I'm always open to learning new technologies and exploring other stacks.
 
 ---
 
